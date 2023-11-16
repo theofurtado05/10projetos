@@ -15,3 +15,10 @@ Caso tenha gostado da ideia, clique na estrelinha ali e já salva para receber a
 PS: Caso queira colaborar, é só criar uma issue solicitando que adiciono de um a um.
 
 Seguem as ideias:
+
+
+| Indice | Projeto | Como monetizar | Nivel |
+|-------------|-------------|-------------|-------------|
+| Coluna 1    | Coluna 2    | Coluna 3    | Coluna 4    |
+| Dado 1      | Dado 2      | Dado 3      | Dado 4      |
+| Dado 4      | Dado 5      | Dado 6      | Dado 4      |
