@@ -14,11 +14,22 @@ Caso tenha gostado da ideia, clique na estrelinha ali e já salva para receber a
 
 PS: Caso queira colaborar, é só criar uma issue solicitando que adiciono de um a um.
 
+PS2: Ao final da lista você encontra os links para as plataformas de monetização
+
 Seguem as ideias:
 
 
-| Indice | Projeto | Como monetizar | Nivel |
-|-------------|-------------|-------------|-------------|
-| Coluna 1    | Coluna 2    | Coluna 3    | Coluna 4    |
-| Dado 1      | Dado 2      | Dado 3      | Dado 4      |
-| Dado 4      | Dado 5      | Dado 6      | Dado 4      |
+| Indice | Projeto | Como monetizar | Nivel | Exemplo |
+|-------------|-------------|-------------|-------------|-------------|
+| 0   | Calculadora de periodo entre datas    | Anúncios    | Fácil    | [Calendario365](https://www.calendario-365.com.br/calcular/periodo-entre-duas-datas.html)|
+| 1   | Gerador de QR Code      | Anúncios     | Fácil     | [QRCode Monkey](https://www.qrcode-monkey.com/pt/)|
+| 2   | Roleta de sorteio      | Anúncios      | Médio | [Roleta de Nomes](https://pt.piliapp.com/random/wheel/)|
+| 3   | Conversor de Moedas     | Anúncios      | Fácil     | [Dolar Hoje](https://dolarhoje.com/)|
+| 4   | Lista de mercado      | Anúncios e Assinatura      | Médio | [Lista Magica](https://www.listamagicaapp.com.br/)|
+
+
+
+
+## Link para plataforma de anúncios: [ADS TERRA](https://beta.publishers.adsterra.com/referral/755xMp8Y9P)
+
+## Link para plataforma de assinaturas: [Kiwify](https://kiwify.net/A4YvDkwO)
