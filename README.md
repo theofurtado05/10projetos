@@ -6,7 +6,7 @@ Fala aí, devs! Tudo bem?
 
 Criei este repositório para ajudar a comunidade de desenvolvedores iniciantes, assim como eu, a treinar a habilidade de escrever código e desenvolver softwares sem ficar copiando esses projetinhos de curso (não aguento mais ver pokedex!!! kkkk).
 
-## A idéia:
+## A ideia:
 
 A ideia é a seguinte: Desenvolver 10 projetos que gerem valor para os usuários, podendo assim monetizá-los, seja com anúncios, assinaturas ou até mesmo a venda do projeto.
 
@@ -50,10 +50,10 @@ Caso tenha gostado da ideia, clique na estrelinha ali e já salva para receber a
 
 
 
-# Desenvolveu um projeto e quer apresentar pra galera ?
+## Desenvolveu um projeto e quer apresentar pra galera ?
 ### Segue o passo a passo
 
 - Solicite acesso ao repositório
 - Crie uma branch com a seguinte formatação: "Seu nome - nome do projeto"
-- Compartilhe o link na publicação do linkedin: [Publicação]('https://linkedin.com/')
+- Compartilhe o link na publicação do linkedin: [Publicação](https://linkedin.com/)
 
