@@ -12,11 +12,13 @@ Nesse repositório, tentarei abordar sistemas de todas as áreas: frontend, back
 
 Caso tenha gostado da ideia, clique na estrelinha ali e já salva para receber as atualizações!!! Tamo junto!!!
 
-PS: Caso queira colaborar, é só criar uma issue solicitando que adiciono de um a um.
+##### PS: Caso queira colaborar, é só criar uma issue solicitando que adiciono de um a um.
 
-PS2: Ao final da lista você encontra os links para as plataformas de monetização
+##### PS2: Ao final da lista você encontra os links para as plataformas de monetização
 
-Seguem as ideias:
+
+
+## Ideias
 
 
 | Indice | Projeto | Como monetizar | Nivel | Exemplo |
@@ -26,10 +28,16 @@ Seguem as ideias:
 | 2   | Roleta de sorteio      | Anúncios      | Médio | [Roleta de Nomes](https://pt.piliapp.com/random/wheel/)|
 | 3   | Conversor de Moedas     | Anúncios      | Fácil     | [Dolar Hoje](https://dolarhoje.com/)|
 | 4   | Lista de mercado      | Anúncios e Assinatura      | Médio | [Lista Magica](https://www.listamagicaapp.com.br/)|
+| 5   | Aplicativo de finanças pessoais | Anuncios e Assinatura | Médio | [] |
+| 6   | Blog | Anuncios, intermediação de propagandas e venda | Dificil | [Madesa](https://blog.madesa.com/) |
+| 7   | CRM de pedidos para doceria | Assinatura e venda | Médio | [Le Fouet Blanc](https://www.instagram.com/lefouetblanc/)|
+| 8   | Gerador de dieta com IA | Anuncios e assinatura | Médio | [Nutrafity](https://nutrafity.com/) |
+| 9   | Quem não te segue de volta? | Anuncios e assinatura | Dificil | [] |
+| Continua... |
 
 
 
 
-## Link para plataforma de anúncios: [ADS TERRA](https://beta.publishers.adsterra.com/referral/755xMp8Y9P)
+#### Link para plataforma de anúncios: [ADS TERRA](https://beta.publishers.adsterra.com/referral/755xMp8Y9P)
 
-## Link para plataforma de assinaturas: [Kiwify](https://kiwify.net/A4YvDkwO)
+#### Link para plataforma de assinaturas: [Kiwify](https://kiwify.net/A4YvDkwO)
