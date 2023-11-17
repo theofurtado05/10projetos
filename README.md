@@ -41,3 +41,13 @@ Caso tenha gostado da ideia, clique na estrelinha ali e já salva para receber a
 #### Link para plataforma de anúncios: [ADS TERRA](https://beta.publishers.adsterra.com/referral/755xMp8Y9P)
 
 #### Link para plataforma de assinaturas: [Kiwify](https://kiwify.net/A4YvDkwO)
+
+
+
+# Desenvolveu um projeto e quer apresentar pra galera ?
+### Segue o passo a passo
+
+- Solicite acesso ao repositório
+- Crie uma branch com a seguinte formatação: "Seu nome - nome do projeto"
+- Compartilhe o link na publicação do linkedin: [Publicação]('https://linkedin.com/')
+
